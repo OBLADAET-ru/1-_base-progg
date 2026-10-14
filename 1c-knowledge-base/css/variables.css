@@ -1,0 +1,17 @@
+:root {
+    --bg: #1a1a1a;
+    --bg-alt: #232323;
+    --bg-code: #141414;
+    --sidebar: #1e1e1e;
+    --border: #333333;
+    --text: #e8e8e8;
+    --text-dim: #8a8a8a;
+    --accent: #FFD400;
+    --accent-hover: #FFE14D;
+    --accent-2: #ffcc00;
+    --green: #7fd962;
+    --red: #ff5555;
+    --purple: #d4a3ff;
+    --header-h: 64px;
+    --sidebar-w: 300px;
+}

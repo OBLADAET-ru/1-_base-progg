@@ -1,0 +1,11 @@
+@media (max-width: 900px) {
+    aside { transform: translateX(-100%); }
+    aside.open { transform: translateX(0); }
+    main { margin-left: 0; padding: 25px 20px; }
+    footer { margin-left: 0; padding: 20px; flex-direction: column; text-align: center; }
+    .menu-btn { display: block; }
+    .logo-text .sub { display: none; }
+    h1 { font-size: 24px; }
+    .hero { flex-direction: column; text-align: center; }
+    .hero-logo { width: 90px; height: 90px; }
+}
