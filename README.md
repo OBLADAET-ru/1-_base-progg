@@ -40,4 +40,4 @@
 
 ---
 
-**Автор:** Платонов Виктор А. · [GitHub @OBLADAET-ru](https://github.com/OBLADAET-ru)
+**Автор:** [GitHub @OBLADAET-ru](https://github.com/OBLADAET-ru)
